@@ -2,10 +2,12 @@
 Napkin
 ======
 
-**A barebones HTML5, jQuery and media queries kit.
-**
+####A barebones HTML5, jQuery and media queries kit.
 
-The best ideas start on a napkin. This is a lightweight development kit for HTML% and CSS.
+
+The best ideas start on a napkin. This is a lightweight development kit for HTML5 and CSS.
+
+I initially created this, so while I'm out and about I can still rapidly create prototypes without an internet connection to download jQuery liobraries or reference any meta tags.
 
 ##Features:
 * Barebones HTML5 template
