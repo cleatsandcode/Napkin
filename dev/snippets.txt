@@ -1,0 +1,96 @@
+=================================  Facebook Open Graph  =================================
+
+<meta property="og:title" content="" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="" />
+<meta property="og:url" content="" />
+<meta property="og:description" content="" />
+
+For more info, see http://ogp.me/
+
+
+
+
+=================================  Twitter Meta  =================================
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="" />
+<meta name="twitter:description" content="" />
+<meta name="twitter:image" content="" />
+
+
+
+
+=================================  Google Meta  =================================
+
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+
+<meta name="author" content="" />
+<meta name="copyright" content="" />
+<meta name="application-name" content="" />
+
+
+
+
+
+
+=================================  Google Analytics  =================================
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-XXXXX-Y']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+
+=================================  Viewport Meta  =================================
+
+<meta name="viewport" content="width=device-width, initial-scale=1">why?
+
+
+
+
+=================================  iOS Icon Meta  =================================
+
+//only a single icon
+<link rel="apple-touch-icon" href="/custom_icon.png"/>
+
+//multi icons for different devices
+<link rel="apple-touch-icon" href="touch-icon-iphone.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="touch-icon-ipad.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="touch-icon-iphone-retina.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="touch-icon-ipad-retina.png" />
+
+Reference: http://developer.apple.com/library/ios/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html
+
+
+
+
+
+=================================  Windows 8 Tile Icon Meta  =================================
+
+//use this if you want a shorter/different title for the Tile:
+<meta name="application-name" content=“Amazing Website”>
+//Tile Style
+<meta name="msapplication-TileImage" content=“tile.png”>
+<meta name="msapplication-TileColor" content="#000000”>
+
+
+
+
+
+=================================  Favicon Meta  =================================
+
+<link rel="icon" href="http://www.example.com/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://www.example.com/favicon.ico" type="image/x-icon">
+
+
