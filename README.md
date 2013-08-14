@@ -17,6 +17,10 @@ The best ideas start on a napkin. This is a lightweight development kit for HTML
 
 I have decided to put all snippets into a separate text file with comments in, allowing you to choose exactly what you want to include. The repo will be updated as-and-when jQuery builds are released (stable). Feel free to suggest changes.
 
+Lastly: The LESS files are located in /dev/ and the CSS in /lib/css, thus allowing you to easily keep development code off the server.
+
+There are some basic styles in the CSS, feel free to delete or edit as needed and a Helvetica font stack is included in the _mixins file.
+
 Happy forking!
 
 Based on MIT license.
