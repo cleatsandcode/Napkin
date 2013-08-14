@@ -94,3 +94,43 @@ Reference: http://developer.apple.com/library/ios/documentation/AppleApplication
 <link rel="shortcut icon" href="http://www.example.com/favicon.ico" type="image/x-icon">
 
 
+=================================  IE Specific Meta (•_• ) =================================
+
+EMULATE TAGS
+
+//emulate IE7
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+
+//Display as IE8
+<meta http-equiv="X-UA-Compatible" content="IE=8">
+
+// Target IE:
+
+<!--[if IE]>
+// Code Here
+<![endif]-->
+
+// Target IE 7:
+
+<!--[if IE 7]>
+// Code Here
+<![endif]-->
+
+// Target IE 8:
+
+<!--[if IE 8]>
+// Code Here
+<![endif]-->
+
+// Target less than IE 8:
+
+<!--[if lt IE 8]>
+// Code Here
+<![endif]-->
+
+// Target below and IE 8:
+
+<!--[if lte IE 8]>
+// Code Here
+<![endif]-->
+
