@@ -9,8 +9,8 @@ The best ideas start on a napkin. This is a lightweight development kit for HTML
 
 ##Features:
 * Barebones HTML5 template
-* Blank CSS with media queries (LESS/SASS)
-* jQuery 1.9.x and 2.0 (switchable)
+* Blank CSS with media queries (LESS)
+* jQuery 1.x and 2.x (switchable)
 * Useful snippets for Facebook Open Graph, Google Analytics, viewport meta, iOS icons, Windows 8 tiles and Favicons
 * HTML5 shim
 * CSS reset
